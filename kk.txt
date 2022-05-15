@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-asdfasdf
-=======
-asdfasd
->>>>>>> e66e693 (lhc添加kk.txt)
