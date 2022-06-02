@@ -31,6 +31,11 @@ bbbbbbbb
 KKKK
 nnnnnnn
 asdfas
+<<<<<<< HEAD
 =======
 llll
 >>>>>>> 2e81b74 (llll)
+=======
+>>>>>>> master
+11111
+>>>>>>> 034f5e6 (11111)
