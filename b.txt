@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+=======
+kkkkkk
 888888
 =======
-LLLLLL
->>>>>>> dev
 bbbbbb
 ccccccc
 asdfasdf
