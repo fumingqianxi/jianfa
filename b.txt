@@ -8,9 +8,6 @@ hhhhh
 ooooo
 pppppp
 0012312
-<<<<<<< HEAD
 lllllll
-=======
 mmmmmm
 
->>>>>>> f49fce3 (333333)
