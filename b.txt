@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 888888
+=======
+LLLLLL
+>>>>>>> dev
 bbbbbb
 ccccccc
 asdfasdf
@@ -22,4 +26,5 @@ llllll
 99999
 77777
 88888
+1111
 
