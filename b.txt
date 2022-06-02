@@ -23,6 +23,7 @@ bbbbb
 hhhh
 uuuu
 kkkk
+<<<<<<< HEAD
 mmmmmmmmmmmmmmmmmmmmmmmmmmm
 nnnnnnnnnnnnnnnnnnn
 YYYYYYYYYYYY
@@ -30,3 +31,6 @@ bbbbbbbb
 KKKK
 nnnnnnn
 asdfas
+=======
+llll
+>>>>>>> 2e81b74 (llll)
